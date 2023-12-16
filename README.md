@@ -1,9 +1,9 @@
 # Calories_Burn_Prediction
 Calories_Burn_Prediction using python, this repository contains all the python files and dependencies related to the project.
 
-Calories-Burned-Prediction Using Machine Learning. (Regression Use case)
 
-image
+
+Calories-Burned-Prediction Using Machine Learning. (Regression Use case)
 
 Implemented Machine Algorithms are:
 1. Linear Regression
